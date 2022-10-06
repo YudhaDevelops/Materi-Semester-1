@@ -1,0 +1,15 @@
+jadi bila kita liat bahwa ada n yang bernilai 0 
+bila di berikan sintax n++ maka akan hasilnya juga 0 karna
+untuk sintax ini akan di tambahkan nilainya setelah di 
+evaluasi atau di eksekusi untuk pertama berbeda bila ada n
+yang bernilai 0 dengan di beri sintax ++n maka untuk print
+pertama dia akan langsung di tambahkan karna untuk sintax 
+ini bilangan atau nilai akan langsung di tambahkan sebelum
+di evaluasi jadi bila ada sintax n++ untuk print pertama 
+maka nilainya hasil outputnya akan bernilai 1 dan bila kita
+lihat untuk n-- cara pengoprasiannya sama dengan sintax n++
+karena dia akan berkurang nilainya bila setelah di evaluasi
+namun bila n-- maka nilai yang ada di n akan berkurang satu
+setelah di evaluasi cara kerja untuk --n sama juga dengan
+++n namun bedanya bila --n nilainya akan di kurang satu
+sebelum di evaluasi.

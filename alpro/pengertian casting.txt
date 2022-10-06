@@ -1,0 +1,12 @@
+kesimpulan yang saya dapat dari setelah saya melihat hasil output tersebut 
+adalah dalam pengoprasian variabel pecah harus menggunakan deklarasi untuk bilangan pecah dan 
+berapa pun bilangan pecahnya bila di bagi dengan bilangan bulat akan akan menghasilkan bilangan pecah dan pembagian dalam
+bilangan pecah itu nilai hasilnya sangat akurat.
+
+Pengertian Type Casting  adalah suatu cara yang digunakan ,untuk menentukan atau merubah (konversi)
+nilai atau value dari satu tipe data numerik, ke dalam tipe data numerik yang lainnya ,di dalam bahasa pemrograman Java.
+di mana bila ada variabel yang bertipe bilangan 
+bulat bila kita ingin mengubah bilangan tersebut menjadi bilangan pecah maka kita 
+akan menambahkan sintax (double) pada sebelum penulisan sintax variabel yang ingin 
+kita ubah sehingga bila kita melihat yang tadinya variabel d adalah bilangan bulat 
+bila di tambah perintah (double) maka hasil output d tadi akan berubah menjadi variabel pecah

@@ -1,0 +1,58 @@
+public class proyek_inisialku{
+	public static void main(String[] args) {
+		System.out.println("  FFFFFFF  XX    XX       BBBBBBB       YY      YY  PPPPPPP");
+		System.out.println("  FF        XX  XX        BB    BB       YY    YY   PP    PP");
+		System.out.println("  FF         XXXX         BB   BB         YY  YY    PP     PP");
+		System.out.println("  FFFFF       XX          BBBBBBBBBB       YYYY     PPPPPPPP");
+		System.out.println("  FF         XXXX         BB       BB       YY      PP");
+		System.out.println("  FF        XX  XX   ==   BB        BB      YY      PP");
+		System.out.println("  FF       XX    XX  ==   BBBBBBBBBBB       YY      PP");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("  FFFFFFF  XX    XX       BBBBBBB       YY      YY  PPPPPPP");
+		System.out.println("  FF        XX  XX        BB    BB       YY    YY   PP    PP");
+		System.out.println("  FF         XXXX         BB   BB         YY  YY    PP     PP");
+		System.out.println("  FFFFF       XX          BBBBBBBBBB       YYYY     PPPPPPPP");
+		System.out.println("  FF         XXXX         BB       BB       YY      PP");
+		System.out.println("  FF        XX  XX   ==   BB        BB      YY      PP");
+		System.out.println("  FF       XX    XX  ==   BBBBBBBBBBB       YY      PP");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("  FFFFFFF  XX    XX       BBBBBBB       YY      YY  PPPPPPP");
+		System.out.println("  FF        XX  XX        BB    BB       YY    YY   PP    PP");
+		System.out.println("  FF         XXXX         BB   BB         YY  YY    PP     PP");
+		System.out.println("  FFFFF       XX          BBBBBBBBBB       YYYY     PPPPPPPP");
+		System.out.println("  FF         XXXX         BB       BB       YY      PP");
+		System.out.println("  FF        XX  XX   ==   BB        BB      YY      PP");
+		System.out.println("  FF       XX    XX  ==   BBBBBBBBBBB       YY      PP");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("  FFFFFFF  XX    XX       BBBBBBB       YY      YY  PPPPPPP");
+		System.out.println("  FF        XX  XX        BB    BB       YY    YY   PP    PP");
+		System.out.println("  FF         XXXX         BB   BB         YY  YY    PP     PP");
+		System.out.println("  FFFFF       XX          BBBBBBBBBB       YYYY     PPPPPPPP");
+		System.out.println("  FF         XXXX         BB       BB       YY      PP");
+		System.out.println("  FF        XX  XX   ==   BB        BB      YY      PP");
+		System.out.println("  FF       XX    XX  ==   BBBBBBBBBBB       YY      PP");
+		System.out.println("");
+		System.out.println("  SSSSSSSS        AA       LL        KK  KK   EEEEEEEE   NNNN   NN");
+		System.out.println("  SS     SS      AAAA      LL        KK KK    EE         NN NN  NN");
+		System.out.println("  SS            AA  AA     LL        KKKK     EE         NN  NN NN");
+		System.out.println("  SSSSSSSSS    AA    AA    LL        KK KK    EEEEE      NN   NNNN");
+		System.out.println("         SS   AA******AA   LL        KK  KK   EE         NN    NNN");
+		System.out.println("  SSSSSSSSS  AA        AA  LLLLLLLL  KK   KK  EEEEEEEEE  NN     NN");
+		System.out.println("");
+		System.out.println(" SSSSSSSSS   EEEEEEEE   MM         MMM  UU     UU       AA");
+		System.out.println(" SS      SS  EE         MMMM      MMMM  UU     UU      AAAA");
+		System.out.println(" SS          EEEEE      MM MM    MM MM  UU     UU     AA  AA");
+		System.out.println(" SSSSSSSSS   EE         MM  MM  MM  MM  UU     UU    AA    AA");
+		System.out.println("        SS   EE         MM   MMMM   MM  UU     UU   AA******AA");
+		System.out.println(" SSSSSSSSS   EEEEEEEEE  MM    MM    MM   UUUUUUU   AA        AA");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+	}
+}
